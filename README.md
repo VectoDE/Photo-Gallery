@@ -15,7 +15,7 @@ Welcome to the **Photo Gallery** repository! This project provides a modern and 
 
 ## Technologies
 
-- **Frontend**: HTML5, CSS3, JavaScript, React.js
+- **Frontend**: HTML5, CSS3, JavaScript, Vue.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Storage**: AWS S3 or local storage
@@ -26,7 +26,7 @@ Welcome to the **Photo Gallery** repository! This project provides a modern and 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/photo-gallery.git
+   git clone https://github.com/VectoDE/photo-gallery.git
    cd photo-gallery
    ```
 
@@ -76,7 +76,7 @@ Welcome to the **Photo Gallery** repository! This project provides a modern and 
 
 ## Project Structure
 
-- `client/`: React.js frontend source code
+- `client/`: Vue.js frontend source code
 - `server/`: Node.js backend source code
 - `public/`: Public assets and static files
 - `models/`: MongoDB models for storing user data and photos
